@@ -1,0 +1,170 @@
+body{
+    font-family: "Roboto", sans-serif;
+    background: rgb(13, 15, 44);
+}
+.nav{
+    margin-left: 189px !important;
+}
+.nav .nav-item{
+    margin-right: 136px;
+}
+.nav .nav-item:last-child{
+    margin-right: 0;
+}
+.nav a{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0;
+    text-align: center;
+}
+.btn_top{
+    padding: 16px 40px 16px 40px;
+    box-sizing: border-box;
+    border: 1px solid rgb(255, 255, 255);
+    background: rgb(49, 49, 61);
+}
+.header_content .title{
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 145%;
+    letter-spacing: 0;
+    margin-top: 279px;
+}
+.header_content .desc_title{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 145%;
+    letter-spacing: 0;
+    margin-top: 36px;
+}
+.btn_boxtitle{
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 145%;
+    letter-spacing: 0;
+    text-align: left;
+    padding: 12px 40px 12px 40px;
+    background: rgb(184, 3, 68);
+    border-radius:0;
+    margin-top: 32px;
+}
+.about_as{
+    box-sizing: border-box;
+    border-radius: 14px;
+    border: 1px solid #cccccc6b;
+    backdrop-filter: blur(0.6px);
+    background: linear-gradient(90.00deg, rgba(112, 98, 169, 0.25),rgba(123, 106, 194, 0.25) 44.5%,rgba(94, 81, 147, 0.25) 65%,rgba(45, 39, 67, 0.25) 100%);
+}
+.about_as h3{
+
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 145%;
+    letter-spacing: 0;
+    margin-top: 58px;
+    margin-bottom: 73px;
+}
+.about_as .bottom_btn{
+    margin-left: 72px;
+    margin-bottom: 75px;
+}
+.listcourse .title{
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 145%;
+    letter-spacing: 0;
+    margin-top: 96px;
+    margin-bottom: 2px;
+    text-align: center;
+}
+.listcourse .desc{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0;
+    text-align: center;
+    max-width: 384px;
+    margin: 0 auto;
+}
+.course_box{
+    margin-top:102px ;
+}
+.mentorat{
+    margin-top: 80px;
+}
+.mentorat .title{
+    font-size: 45px;
+    font-weight: 800;
+    line-height: 53px;
+    letter-spacing: 0;
+    margin-top: 157px;
+    margin-bottom: 21px;
+}
+.mentorat .color{
+    color: rgb(13, 107, 142);
+}
+.mentorat .des{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0;
+    margin-bottom: 21px;
+}
+.mentorat .card{
+    background: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.21);
+}
+.box_element{
+    display: block;
+    /* Polygon 2 */
+    position: absolute;
+    width: 28.05px;
+    height: 15.03px;
+    left: 52.03px;
+    right: 495.04px;
+    top: 100.05px;
+    bottom: -56.08px;
+    transform: rotate(-90.00deg);
+    background: rgb(255, 255, 255);
+}
+.mentorat img{
+    position: absolute;
+    margin-left: -20px;
+    margin-top: -1px;
+}
+.tarif .title{
+    font-size: 45px;
+    font-weight: 800;
+    line-height: 53px;
+    letter-spacing: 0;
+    margin-top: 157px;
+    margin-bottom: 60px;
+    text-align: center;
+
+}
+.tarif .color{
+    color: rgb(13, 107, 142);
+}
+.tarif .card_box{
+    padding-top: 30px;
+    box-sizing: border-box;
+    border: 1px solid rgb(198, 198, 198);
+    border-radius: 20px;
+    background: linear-gradient(181.70deg, rgba(21, 191, 253, 0) -24.54%,rgba(26, 188, 248, 0.05) -24.527%,rgba(101, 87, 255, 0.47) 34.326%,rgb(38, 163, 191) 107.744%);
+text-align: center;
+}
+.card_box .minus{
+    border-radius: 10px;
+    background: rgb(101, 87, 255);
+
+    width: 49px;
+    height: 31px;
+
+    padding: 5px;
+
+
+}
